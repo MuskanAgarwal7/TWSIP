@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: serif;
+    background: linear-gradient(lightblue, lightpink);
+    height: 100vh;
+}
+
+main {
+    margin-top: 8em;
+
+}
+
+li.nav-item {
+    margin-right: 2em;
+}
+
+.featurette-heading {
+    font-size: 2.7em;
+}
+
+.para {
+    font-size: 2em;
+}
+
+/* About section css */
+main.main {
+    margin: 0px 50px;
+}
+
+main.main h1 {
+    font-size: 3.5rem;
+    text-align: center;
+}
+
+main.main p {
+    font-size: 1.2em;
+}
+
+/* slill section css */
+.skills-items {
+    text-align: left;
+    font-size: 1.5em;
+}
+
+.progress {
+    height: 35%;
+}
+
+/* Contact css */
+.fa-brands,
+.fa-regular {
+    font-size: 3rem;
+    color: rgba(0, 0, 0, 0.725);
+}
+
+.contact-links {
+    margin: 35px 70px;
+    text-align: center;
+}
